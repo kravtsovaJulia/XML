@@ -1,1 +1,10 @@
-
+<bug>
+   <bag_id>236</bag_id>
+   <Severity>Minor </Severity>
+   <Priority>low</Priority>
+   <Environment>Redmi Note 8 M1908C3JG </Environment>
+   <Precondition>Open the App</Precondition>
+   <STR>Click button Add widget,Hide application,Look the widget icon</STR>
+   <AR>parameters Height (H) and Width (W) are set to 0 </AR>
+   <ER>the parameters Height (H) and Width (W) are in values in relation to the screen resolution settings that the user has set </ER>
+</bug>
