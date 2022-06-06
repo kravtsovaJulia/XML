@@ -1,9 +1,8 @@
 <person>
-	<lastName>Kravtsova</lastName>
-	<firstName>Julia</firstName>
-	<patronymic>Grigorievna</patronymic>
-	<years>23 </years>
-	<number of pets>1</number of pets>
-	<future desired salary>50</future desired salary>
+	<LastName>Kravtsova</LastName>
+	<FirstName>Julia</FirstName>
+	<Patronymic>Grigorievna</Patronymic>
+	<Years>23 </Years>
+	<NumberOfPets>1</NumberOfPets>
+	<FutureDesiredSalary>50</FutureDesiredSalary>
 <person>
-
